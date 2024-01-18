@@ -1,2 +1,2 @@
 # Countdown
-This is a countdown hhhhhhhhhhhhhhhhh
+This is a countdown hhhhhhh
