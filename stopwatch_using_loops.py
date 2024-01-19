@@ -1,6 +1,6 @@
 import time
 
-seconds = 10
+seconds = 20
 while seconds > 0:
     print (seconds)
     time.sleep(1)
